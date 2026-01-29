@@ -14,10 +14,12 @@ SE Film ha la maggioranza
     SE c'è una maggioranza
         -Selezioniamo la sezione del genere scelto
         
-        FINCHE' non si arriva a quattro si e un no
+        FINCHE' la maggioranza non è d'accordo per una durata di 10 minuti
             -Si scrollano i Titoli presenti leggendo le trame
 
             -Si guarda il film che ha avuto la votazione maggiore
+        ALTRIMENTI
+            -Si guarda il primo che capita
 
     ALTRIMENTI
         -si scelgono 3 generi da mettere a votazione
@@ -44,7 +46,9 @@ ALTRIMENTI Si sceglie SerieTV
         -si prende il genere con la maggioranza 
         -Selezioniamo la sezione del genere scelto
 
-        FINCHE' La maggioranza non è d'accordo 
+        FINCHE' la maggioranza non è d'accordo per una durata di 10 minuti
             -Si scrollano i Titoli presenti leggendo le trame
 
-        -Si guarda la SerieTV che ha avuto la votazione maggiore
+            -Si guarda il film che ha avuto la votazione maggiore
+        ALTRIMENTI
+            -Si guarda il primo che capita
